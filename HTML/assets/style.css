@@ -1,0 +1,43 @@
+.logo {
+    font-weight: bold;
+    background-color: lightpink;
+    color: purple;
+    font-size: 60px;
+    font-style:italic;
+    
+}
+
+/* visited link */
+a.logo:visited {
+    color: white;
+}
+
+h2 {font-weight: bold;
+    color: lightseagreen;
+    font-size: 35px;
+}
+
+h3 {color: lightseagreen;
+}
+
+.first image {
+    width: 20%; 
+    float: left; 
+    margin : 5px;
+
+}
+
+.text {
+    float: left;
+}
+
+table, thead, td, tr {
+    border: 2px solid lightgrey;
+}
+
+th {
+    background-color: indianred;
+    color: white;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
