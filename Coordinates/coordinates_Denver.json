@@ -1,0 +1,506 @@
+[
+  {
+    "zip_code": 80201,
+    "latitude": 39.726303,
+    "longitude": -104.856808,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80202,
+    "latitude": 39.760189,
+    "longitude": -104.996553,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80203,
+    "latitude": 39.729205,
+    "longitude": -104.970331,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80204,
+    "latitude": 39.720136,
+    "longitude": -105.021502,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80205,
+    "latitude": 39.760137,
+    "longitude": -104.967585,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80206,
+    "latitude": 39.730787,
+    "longitude": -104.953335,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80207,
+    "latitude": 39.713186,
+    "longitude": -104.903532,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80208,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80209,
+    "latitude": 39.707332,
+    "longitude": -104.964236,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80210,
+    "latitude": 39.701677,
+    "longitude": -104.964186,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80211,
+    "latitude": 39.765291,
+    "longitude": -105.018387,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80212,
+    "latitude": 39.768286,
+    "longitude": -105.049338,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80216,
+    "latitude": 39.777036,
+    "longitude": -104.942034,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80217,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80218,
+    "latitude": 39.720236,
+    "longitude": -104.968759,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80219,
+    "latitude": 39.695014,
+    "longitude": -105.034339,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80220,
+    "latitude": 39.732436,
+    "longitude": -104.910843,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80222,
+    "latitude": 39.709343,
+    "longitude": -104.924134,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80223,
+    "latitude": 39.707186,
+    "longitude": -105.008762,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80224,
+    "latitude": 39.702037,
+    "longitude": -104.911434,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80227,
+    "latitude": 39.667479,
+    "longitude": -105.067136,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80230,
+    "latitude": 39.721848,
+    "longitude": -104.895093,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80231,
+    "latitude": 39.68493,
+    "longitude": -104.886785,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80235,
+    "latitude": 39.645837,
+    "longitude": -105.065003,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80236,
+    "latitude": 39.649837,
+    "longitude": -105.034988,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80237,
+    "latitude": 39.638537,
+    "longitude": -104.903984,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80238,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80239,
+    "latitude": 39.804398,
+    "longitude": -104.813919,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80243,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80244,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80246,
+    "latitude": 39.708637,
+    "longitude": -104.931234,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80248,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80249,
+    "latitude": 39.83776,
+    "longitude": -104.697674,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80250,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80251,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80252,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80254,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80255,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80256,
+    "latitude": 39.74739,
+    "longitude": -104.992842,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80257,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80259,
+    "latitude": 39.746239,
+    "longitude": -104.991334,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80261,
+    "latitude": 39.737929,
+    "longitude": -104.985036,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80262,
+    "latitude": 39.731038,
+    "longitude": -104.938391,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80263,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80264,
+    "latitude": 39.74259,
+    "longitude": -104.986292,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80265,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80266,
+    "latitude": 39.747179,
+    "longitude": -104.991511,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80270,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80271,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80273,
+    "latitude": 39.727293,
+    "longitude": -104.987535,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80274,
+    "latitude": 39.743934,
+    "longitude": -104.987577,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80275,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80279,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80280,
+    "latitude": 39.716675,
+    "longitude": -104.906942,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80281,
+    "latitude": 39.74394,
+    "longitude": -104.987577,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80285,
+    "latitude": "",
+    "longitude": "",
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80290,
+    "latitude": 39.743608,
+    "longitude": -104.987556,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80291,
+    "latitude": 39.74394,
+    "longitude": -104.987577,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80292,
+    "latitude": 39.74739,
+    "longitude": -104.992842,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80293,
+    "latitude": 39.745786,
+    "longitude": -104.990686,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80294,
+    "latitude": 39.749086,
+    "longitude": -104.989036,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80295,
+    "latitude": 39.745486,
+    "longitude": -104.986336,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  },
+  {
+    "zip_code": 80299,
+    "latitude": 39.738752,
+    "longitude": -104.408349,
+    "city": "Denver",
+    "state": "CO",
+    "county": "Denver"
+  }
+]
