@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Basic Map</title>
+
+  <!-- Leaflet CSS & JS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.3/dist/leaflet.css"
+  integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+  crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+  integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+  crossorigin=""></script>
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+
+</head>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Bootstrap Components</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+
+
+<body>
+  <!-- The div where we will inject our map -->
+  <div id="map"></div>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+      crossorigin="anonymous"></script>
+  <!-- API key -->
+  <script type="text/javascript" src="config.js"></script>
+  <!-- JS -->
+  <!--<script type="text/javascript" src="logic.js"></script>-->
+
+  <script type="text/javascript" src="logicMASTER.js"></script>
+
+
+
+
+
+
+    <div id="accordion" class="panel-group">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a href="#panelBodyOne" data-toggle="collapse" data-parent="#accordion">
+                    Graph 1</a>
+                    </a>
+                </h4>
+            </div>
+            <div id="panelBodyOne" class="panel-collapse collapse in">
+                <div class="panel-body">
+                    <img class="img-responsive" src="PieChart_population.png" alt="pie_chart"/>
+                </div>
+            </div>
+        </div>
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a href="#panelBodyTwo" data-toggle="collapse" data-parent="#accordion">
+                        Graph 2
+                    </a>
+                </h4>
+            </div>
+            <div id="panelBodyTwo" class="panel-collapse collapse in">
+                <div class="panel-body">
+                    <img class="img-responsive" src="charticon.png" alt="penguins" />
+                </div>
+            </div>
+        </div>
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                <h4 class="panel-title">
+                    <a href="#panelBodyThree" data-toggle="collapse" data-parent="#accordion">
+                        Graph 3
+                    </a>
+                </h4>
+            </div>
+            <div id="panelBodyThree" class="panel-collapse collapse in">
+                <div class="panel-body">
+                    <img class="img-responsive" src="charticon.png" alt="jellyfish" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!--
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="singlebutton"></label>
+        <div class="col-md-4 text-center">
+    <button id="singlebutton" name="singlebutton" class="btn btn-primary">OUR PICKS</button>
+</div>
+</div> -->
+
+
+
+    <div class="panel-group" id="accordion">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+            Karen</a>
+          </h4>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse in">
+          <div class="panel-body">Mango Black Tea with Boba
+          100% Sweet, 0% Ice</div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
+            Tammy</a>
+          </h4>
+        </div>
+        <div id="collapse2" class="panel-collapse collapse in">
+          <div class="panel-body">"I'll get whatever you get...."</div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
+            Nay</a>
+          </h4>
+        </div>
+        <div id="collapse3" class="panel-collapse collapse in">
+          <div class="panel-body">Oolong Milk Tea with Grass Jelly.
+          30% Sweet, 100% Ice</div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+</body>
+
+
+</html>
